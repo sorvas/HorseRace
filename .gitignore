@@ -5,6 +5,10 @@ obj/
 .idea/
 HorseRace.Sln.DotSettings.user
 
+*/bin/*
+*/obj/*
+*/.idea/*
+
 # Common node modules locations
 /node_modules
 /wwwroot/node_modules
