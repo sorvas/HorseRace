@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Oek79himxcnU6jr4Qac/k8X4Z0D3c12PNraWO5V33uAI2Fs3xFzWN+SrHnYHyPPIhEfJM1CnMdhapB5IvQYSxw==",
+  "success": true,
+  "projectFilePath": "D:\\Apps\\HorseRace\\HorseRace.Core\\HorseRace.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sorin\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\sorin\\.nuget\\packages\\microsoft.extensions.options\\8.0.2\\microsoft.extensions.options.8.0.2.nupkg.sha512",
+    "C:\\Users\\sorin\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HorseRace.Core", "HorseRace.Core\HorseRace.Core.csproj", "{5D00B194-3112-4CAB-9948-CBE5B43EBA1F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HorseRace.Demo", "HorseRace.Demo\HorseRace.Demo.csproj", "{63622FD8-A59D-42C3-94E9-74E6DD61A52B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HorseRace.Core.Tests", "HorseRace.Core.Tests\HorseRace.Core.Tests.csproj", "{BB8873D7-5DD5-4301-973D-350DDDEC356C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D00B194-3112-4CAB-9948-CBE5B43EBA1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D00B194-3112-4CAB-9948-CBE5B43EBA1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D00B194-3112-4CAB-9948-CBE5B43EBA1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D00B194-3112-4CAB-9948-CBE5B43EBA1F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63622FD8-A59D-42C3-94E9-74E6DD61A52B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63622FD8-A59D-42C3-94E9-74E6DD61A52B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63622FD8-A59D-42C3-94E9-74E6DD61A52B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63622FD8-A59D-42C3-94E9-74E6DD61A52B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB8873D7-5DD5-4301-973D-350DDDEC356C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB8873D7-5DD5-4301-973D-350DDDEC356C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB8873D7-5DD5-4301-973D-350DDDEC356C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB8873D7-5DD5-4301-973D-350DDDEC356C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
